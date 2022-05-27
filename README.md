@@ -1,5 +1,6 @@
 Since rendering folium maps is not possible in Github the unrendered code of this repository can be found at
 [(here)](http://nbviewer.org/github/Vishnu-Kota/Foursquare/blob/main/Foursquare.ipynb)
+
 When you look for nearby restaurants or plan an errand in an unknown area, you expect relevant, accurate information. To maintain quality data worldwide is a challenge, and one with implications beyond navigation. Businesses make decisions on new sites for market expansion, analyze the competitive landscape, and show relevant ads informed by location data. For these, and many other uses, reliable data is critical.
 
 Large-scale datasets on commercial points-of-interest (POI) can be rich with real-world information. To maintain the highest level of accuracy, the data must be matched and de-duplicated with timely updates from multiple sources. De-duplication involves many challenges, as the raw data can contain noise, unstructured information, and incomplete or inaccurate attributes. A combination of machine-learning algorithms and rigorous human validation methods are optimal to de-dupe datasets.
