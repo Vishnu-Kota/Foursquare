@@ -8,5 +8,5 @@ Since rendering folium maps is not possible in Github the unrendered code of thi
 # Libraries Used:
 - [(Numpy)](https://numpy.org/install/)
 - [(Pandas)](https://pandas.pydata.org/)
-- [(Geolocation)] (https://pypi.org/project/geolocation-python/)
-- Folium
+- [(Geolocation)](https://pypi.org/project/geolocation-python/)
+- [(Folium)](https://pypi.org/project/folium/)
